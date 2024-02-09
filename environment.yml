@@ -1,0 +1,17 @@
+name: gcog
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pytorch::pytorch
+  - torchvision
+  - torchaudio
+  - ca-certificates
+  - openssl
+  - seaborn
+  - certifi
+  - ipython
+  - ipykernel
+  - opencv
+  - pygraphviz
+prefix: /Users/tito/mambaforge/envs/gcog

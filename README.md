@@ -33,16 +33,16 @@ There are 4 demo notebooks corresponding to each compositional split presented i
 
 **1) Task framework: `demos/Demo_TaskGeneration.ipynb`**
 
-**2) Distractor generalization demo: `demos/Demo_DistractorGeneralization_Fig3split.ipynb`**
+**2) Distractor generalization demo: `demos/Demo_DistractorGeneralization_Fig3split.ipynb`**. 
 <img width="577" alt="image" src="https://github.com/IBM/gcog/assets/6352881/8cd7c2b8-80a3-47ca-a607-12e0e5146451">
 
-**3) Systematic generalization (task tree depth 1) demo: `demos/Demo_Systematicity_OpSys_Fig4Asplit.ipynb`**
+**3) Systematic generalization (task tree depth 1) demo: `demos/Demo_Systematicity_OpSys_Fig4Asplit.ipynb`**  
 <img width="202" alt="image" src="https://github.com/IBM/gcog/assets/6352881/d72b25cd-0c06-4b94-9a62-ada01f4d7629">
 
-**4) Systematic generalization (task tree depth 3) demo: `demos/Demo_Systematicity_CompTreeSubsets_Fig4Dsplit.ipynb`**
+**4) Systematic generalization (task tree depth 3) demo: `demos/Demo_Systematicity_CompTreeSubsets_Fig4Dsplit.ipynb`**. 
 <img width="202" alt="image" src="https://github.com/IBM/gcog/assets/6352881/18c8beb7-e461-4a51-bf24-fa40bfe04bbf">
 
-**5) Productive generalization demo: `demos/Demo_Productivity_CompTree_Fig5split.ipynb`**
+**5) Productive generalization demo: `demos/Demo_Productivity_CompTree_Fig5split.ipynb`**  
 <img width="615" alt="image" src="https://github.com/IBM/gcog/assets/6352881/d671104e-c909-47b6-b741-c7e54d389bdb">
 
 In addition, there are a separate set of demo notebooks that provide instructions for how to import and/use dataloaders that generate task samples in the image pixel and language instructions (i.e., not categorical tokens): `demos/PixelWordDataset/`

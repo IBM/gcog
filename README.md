@@ -16,7 +16,7 @@ Dependencies: `environment.yml` (`conda`) and `requirements.txt` (`pip`)
 3) Install package from base directory: `pip install -e .`
 
 ## Overview
-**A task paradigm to systematically evaluate compositional generalization features.** 
+**A classification task paradigm to evaluate compositional generalization.** 
 The purpose of this task is to measure how models compositionally generalize over precise task features, such as:
 1) Systematic compositional generalization: Task operations (e.g., re-using previously seen task operations in novel settings)
 2) Productive compositional generalization: Task complexity (e.g., depth / complexity of a task tree).

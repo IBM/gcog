@@ -77,6 +77,6 @@ triton==2.2.0
 typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1702176139754/work
 tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1703878702368/work
 unicodedata2 @ file:///home/conda/feedstock_root/build_artifacts/unicodedata2_1695847984941/work
-urllib3==2.2.0
+urllib3==2.7.0
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1704731205417/work
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1695255097490/work

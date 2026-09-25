@@ -18,7 +18,7 @@ importlib-resources @ file:///home/conda/feedstock_root/build_artifacts/importli
 ipykernel @ file:///home/conda/feedstock_root/build_artifacts/ipykernel_1705417941265/work
 ipython @ file:///home/conda/feedstock_root/build_artifacts/ipython_1701831663892/work
 jedi @ file:///home/conda/feedstock_root/build_artifacts/jedi_1696326070614/work
-Jinja2==3.1.3
+Jinja2==3.1.6
 jupyter_client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1699283905679/work
 jupyter_core @ file:///home/conda/feedstock_root/build_artifacts/jupyter_core_1704727023078/work
 kiwisolver @ file:///home/conda/feedstock_root/build_artifacts/kiwisolver_1695379916629/work

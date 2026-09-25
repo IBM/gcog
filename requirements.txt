@@ -8,7 +8,7 @@ debugpy @ file:///home/conda/feedstock_root/build_artifacts/debugpy_169553430552
 decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
 exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1704921103267/work
 executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1698579936712/work
-filelock==3.13.1
+filelock==3.20.3
 fonttools @ file:///home/conda/feedstock_root/build_artifacts/fonttools_1704979843766/work
 fsspec==2024.2.0
 -e git+https://github.ibm.com/Takuya-Ito/gcog.git@841ce4676b2b054d372a7ca819b2b6490480110a#egg=gcog

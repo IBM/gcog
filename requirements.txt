@@ -61,7 +61,7 @@ pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_16907378
 python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
 pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1706886791323/work
 pyzmq @ file:///home/conda/feedstock_root/build_artifacts/pyzmq_1701783166972/work
-requests==2.31.0
+requests==2.33.0
 scipy @ file:///home/conda/feedstock_root/build_artifacts/scipy-split_1706041477036/work/dist/scipy-1.12.0-cp39-cp39-linux_x86_64.whl#sha256=1be674eb50c790f00bbecf6f8845364b19c49a5330a66198e2195eeeebd556e3
 seaborn @ file:///home/conda/feedstock_root/build_artifacts/seaborn-split_1706340836595/work
 six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work

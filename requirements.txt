@@ -12,7 +12,7 @@ filelock==3.13.1
 fonttools @ file:///home/conda/feedstock_root/build_artifacts/fonttools_1704979843766/work
 fsspec==2024.2.0
 -e git+https://github.ibm.com/Takuya-Ito/gcog.git@841ce4676b2b054d372a7ca819b2b6490480110a#egg=gcog
-idna==3.6
+idna==3.15
 importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1703269254275/work
 importlib-resources @ file:///home/conda/feedstock_root/build_artifacts/importlib_resources_1699364556997/work
 ipykernel @ file:///home/conda/feedstock_root/build_artifacts/ipykernel_1705417941265/work
